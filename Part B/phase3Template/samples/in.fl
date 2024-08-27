@@ -1,0 +1,4 @@
+def main()
+    "hello" << "world" <<  "world!"  << 33;
+
+end
